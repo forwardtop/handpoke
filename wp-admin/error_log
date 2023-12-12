@@ -1,0 +1,234 @@
+[06-Nov-2023 05:58:18 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[06-Nov-2023 05:59:03 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[06-Nov-2023 06:10:17 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[06-Nov-2023 06:10:52 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[06-Nov-2023 06:35:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/poke/public_html/wp-content/plugins/elementor/includes/embed.php on line 185
+[06-Nov-2023 06:36:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/poke/public_html/wp-content/plugins/elementor/includes/embed.php on line 185
+[06-Nov-2023 06:37:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/poke/public_html/wp-content/plugins/elementor/includes/embed.php on line 185
+[06-Nov-2023 06:41:10 UTC] PHP Warning:  Undefined array key "2x" in /home/poke/public_html/wp-content/plugins/upload-max-file-size/Plugin_Card_Helper.php on line 244
+[06-Nov-2023 06:41:15 UTC] PHP Warning:  Undefined array key "2x" in /home/poke/public_html/wp-content/plugins/upload-max-file-size/Plugin_Card_Helper.php on line 244
+[06-Nov-2023 06:43:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/poke/public_html/wp-content/plugins/elementor/includes/embed.php on line 185
+[06-Nov-2023 09:13:02 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home/poke/public_html/wp-content/plugins/elementor/modules/history/revisions-manager.php on line 363
+[06-Nov-2023 09:13:23 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home/poke/public_html/wp-content/plugins/elementor/modules/history/revisions-manager.php on line 363
+[06-Nov-2023 11:12:10 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[24-Nov-2023 11:44:14 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[27-Nov-2023 01:48:22 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[27-Nov-2023 06:40:28 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[27-Nov-2023 06:40:57 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[27-Nov-2023 06:41:26 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[27-Nov-2023 06:42:07 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[27-Nov-2023 06:42:48 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[27-Nov-2023 06:46:06 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[27-Nov-2023 06:46:24 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[27-Nov-2023 06:52:51 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[27-Nov-2023 06:55:52 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[27-Nov-2023 06:56:15 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[27-Nov-2023 06:57:12 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[27-Nov-2023 06:57:26 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[27-Nov-2023 06:58:20 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[27-Nov-2023 06:59:20 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[27-Nov-2023 07:01:01 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[27-Nov-2023 07:01:54 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[27-Nov-2023 07:29:55 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[27-Nov-2023 07:32:46 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[27-Nov-2023 07:33:06 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[27-Nov-2023 07:33:13 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[27-Nov-2023 07:35:50 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[27-Nov-2023 07:52:20 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[27-Nov-2023 08:15:52 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[27-Nov-2023 08:25:15 UTC] PHP Warning:  Undefined array key "id" in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 41
+[27-Nov-2023 08:25:15 UTC] PHP Warning:  Undefined array key "id" in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 41
+[27-Nov-2023 08:25:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Nov-2023 08:25:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Nov-2023 08:25:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Nov-2023 08:25:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Nov-2023 08:25:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Nov-2023 08:25:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Nov-2023 08:25:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Nov-2023 08:25:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Nov-2023 08:25:15 UTC] PHP Warning:  Undefined array key "id" in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 41
+[27-Nov-2023 08:25:15 UTC] PHP Warning:  Undefined array key "id" in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 41
+[27-Nov-2023 08:25:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Nov-2023 08:25:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Nov-2023 08:25:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Nov-2023 08:25:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Nov-2023 08:25:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Nov-2023 08:25:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Nov-2023 08:25:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Nov-2023 08:25:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Nov-2023 08:25:46 UTC] PHP Warning:  Undefined array key "id" in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 41
+[27-Nov-2023 08:25:46 UTC] PHP Warning:  Undefined array key "id" in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 41
+[27-Nov-2023 08:25:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Nov-2023 08:25:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Nov-2023 08:25:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Nov-2023 08:25:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Nov-2023 08:25:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Nov-2023 08:25:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Nov-2023 08:25:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Nov-2023 08:25:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Nov-2023 08:25:47 UTC] PHP Warning:  Undefined array key "id" in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 41
+[27-Nov-2023 08:25:47 UTC] PHP Warning:  Undefined array key "id" in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 41
+[27-Nov-2023 08:25:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Nov-2023 08:25:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Nov-2023 08:25:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Nov-2023 08:25:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Nov-2023 08:25:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Nov-2023 08:25:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Nov-2023 08:25:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Nov-2023 08:25:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/poke/public_html/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Nov-2023 08:55:21 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[27-Nov-2023 09:02:44 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[27-Nov-2023 09:07:26 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[27-Nov-2023 09:08:55 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[27-Nov-2023 09:09:52 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[27-Nov-2023 09:15:00 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[27-Nov-2023 09:16:19 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[27-Nov-2023 19:59:50 UTC] PHP Warning:  Undefined array key "2x" in /home/poke/public_html/wp-content/plugins/upload-max-file-size/Plugin_Card_Helper.php on line 244
+[27-Nov-2023 20:00:35 UTC] PHP Warning:  Undefined array key "2x" in /home/poke/public_html/wp-content/plugins/upload-max-file-size/Plugin_Card_Helper.php on line 244
+[27-Nov-2023 20:03:10 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[27-Nov-2023 20:19:56 UTC] PHP Warning:  Undefined array key "2x" in /home/poke/public_html/wp-content/plugins/upload-max-file-size/Plugin_Card_Helper.php on line 244
+[27-Nov-2023 20:38:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-admin/includes/misc.php on line 1431
+[27-Nov-2023 20:38:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-includes/functions.php on line 7049
+[27-Nov-2023 20:38:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-admin/admin-header.php on line 9
+[27-Nov-2023 20:38:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-admin/includes/misc.php on line 1431
+[27-Nov-2023 20:38:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-includes/functions.php on line 7049
+[27-Nov-2023 20:38:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-admin/admin-header.php on line 9
+[27-Nov-2023 20:38:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-admin/includes/misc.php on line 1431
+[27-Nov-2023 20:38:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-includes/functions.php on line 7049
+[27-Nov-2023 20:38:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-admin/admin-header.php on line 9
+[27-Nov-2023 20:38:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-includes/http.php on line 505
+[27-Nov-2023 20:38:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-includes/http.php on line 506
+[27-Nov-2023 20:38:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-admin/admin-ajax.php on line 27
+[27-Nov-2023 20:38:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-admin/admin-ajax.php on line 28
+[27-Nov-2023 20:38:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-includes/functions.php on line 6936
+[27-Nov-2023 20:38:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-admin/includes/misc.php on line 1431
+[27-Nov-2023 20:38:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-includes/functions.php on line 7049
+[27-Nov-2023 20:38:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-admin/includes/misc.php on line 1431
+[27-Nov-2023 20:38:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-includes/functions.php on line 7049
+[27-Nov-2023 20:39:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-admin/includes/misc.php on line 1431
+[27-Nov-2023 20:39:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-includes/functions.php on line 7049
+[27-Nov-2023 20:39:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-admin/admin-header.php on line 9
+[27-Nov-2023 20:39:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-includes/http.php on line 505
+[27-Nov-2023 20:39:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-includes/http.php on line 506
+[27-Nov-2023 20:39:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-admin/admin-ajax.php on line 27
+[27-Nov-2023 20:39:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-admin/admin-ajax.php on line 28
+[27-Nov-2023 20:39:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-includes/functions.php on line 6936
+[27-Nov-2023 20:39:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-admin/includes/misc.php on line 1431
+[27-Nov-2023 20:39:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-includes/functions.php on line 7049
+[27-Nov-2023 20:39:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-includes/http.php on line 505
+[27-Nov-2023 20:39:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-includes/http.php on line 506
+[27-Nov-2023 20:39:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-admin/admin-ajax.php on line 27
+[27-Nov-2023 20:39:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-admin/admin-ajax.php on line 28
+[27-Nov-2023 20:39:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-includes/functions.php on line 6936
+[27-Nov-2023 20:39:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-admin/includes/misc.php on line 1431
+[27-Nov-2023 20:39:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-includes/functions.php on line 7049
+[27-Nov-2023 20:39:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-admin/includes/misc.php on line 1431
+[27-Nov-2023 20:39:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-includes/functions.php on line 7049
+[27-Nov-2023 20:39:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-admin/admin-header.php on line 9
+[27-Nov-2023 20:39:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-admin/includes/misc.php on line 1431
+[27-Nov-2023 20:39:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-includes/functions.php on line 7049
+[27-Nov-2023 20:39:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-admin/admin-header.php on line 9
+[27-Nov-2023 20:40:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-includes/http.php on line 505
+[27-Nov-2023 20:40:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-includes/http.php on line 506
+[27-Nov-2023 20:40:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-admin/admin-ajax.php on line 27
+[27-Nov-2023 20:40:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-admin/admin-ajax.php on line 28
+[27-Nov-2023 20:40:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-includes/functions.php on line 6936
+[27-Nov-2023 20:40:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-admin/includes/misc.php on line 1431
+[27-Nov-2023 20:40:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-includes/functions.php on line 7049
+[27-Nov-2023 20:40:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-admin/includes/misc.php on line 1431
+[27-Nov-2023 20:40:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-includes/functions.php on line 7049
+[27-Nov-2023 20:41:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-includes/http.php on line 505
+[27-Nov-2023 20:41:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-includes/http.php on line 506
+[27-Nov-2023 20:41:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-admin/admin-ajax.php on line 27
+[27-Nov-2023 20:41:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-admin/admin-ajax.php on line 28
+[27-Nov-2023 20:41:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-includes/functions.php on line 6936
+[27-Nov-2023 20:41:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-admin/includes/misc.php on line 1431
+[27-Nov-2023 20:41:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-includes/functions.php on line 7049
+[27-Nov-2023 20:42:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-includes/http.php on line 505
+[27-Nov-2023 20:42:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-includes/http.php on line 506
+[27-Nov-2023 20:42:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-admin/admin-ajax.php on line 27
+[27-Nov-2023 20:42:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-admin/admin-ajax.php on line 28
+[27-Nov-2023 20:42:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-includes/functions.php on line 6936
+[27-Nov-2023 20:42:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-admin/includes/misc.php on line 1431
+[27-Nov-2023 20:42:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-includes/functions.php on line 7049
+[27-Nov-2023 20:42:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-includes/http.php on line 505
+[27-Nov-2023 20:42:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-includes/http.php on line 506
+[27-Nov-2023 20:42:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-admin/admin-ajax.php on line 27
+[27-Nov-2023 20:42:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-admin/admin-ajax.php on line 28
+[27-Nov-2023 20:42:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-includes/functions.php on line 6936
+[27-Nov-2023 20:42:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-admin/includes/misc.php on line 1431
+[27-Nov-2023 20:42:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/poke/public_html/wp-content/themes/hello-elementor/functions.php:1) in /home/poke/public_html/wp-includes/functions.php on line 7049
+[27-Nov-2023 23:37:14 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[27-Nov-2023 23:40:10 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[28-Nov-2023 00:01:12 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[28-Nov-2023 00:05:26 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[28-Nov-2023 00:16:27 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[28-Nov-2023 00:35:33 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[28-Nov-2023 01:05:24 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[28-Nov-2023 02:10:37 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home/poke/public_html/wp-content/plugins/elementor/modules/history/revisions-manager.php on line 363
+[28-Nov-2023 02:16:22 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home/poke/public_html/wp-content/plugins/elementor/modules/history/revisions-manager.php on line 363
+[29-Nov-2023 01:41:17 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[29-Nov-2023 05:45:46 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[29-Nov-2023 05:53:21 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[29-Nov-2023 05:53:58 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[29-Nov-2023 07:24:38 UTC] PHP Warning:  Undefined array key "2x" in /home/poke/public_html/wp-content/plugins/upload-max-file-size/Plugin_Card_Helper.php on line 244
+[29-Nov-2023 07:24:48 UTC] PHP Warning:  Undefined array key "2x" in /home/poke/public_html/wp-content/plugins/upload-max-file-size/Plugin_Card_Helper.php on line 244
+[29-Nov-2023 07:24:53 UTC] PHP Warning:  Undefined array key "2x" in /home/poke/public_html/wp-content/plugins/upload-max-file-size/Plugin_Card_Helper.php on line 244
+[29-Nov-2023 07:30:05 UTC] PHP Warning:  Undefined array key "2x" in /home/poke/public_html/wp-content/plugins/upload-max-file-size/Plugin_Card_Helper.php on line 244
+[29-Nov-2023 07:30:10 UTC] PHP Warning:  Undefined array key "2x" in /home/poke/public_html/wp-content/plugins/upload-max-file-size/Plugin_Card_Helper.php on line 244
+[29-Nov-2023 07:31:11 UTC] PHP Warning:  Undefined array key "2x" in /home/poke/public_html/wp-content/plugins/upload-max-file-size/Plugin_Card_Helper.php on line 244
+[29-Nov-2023 07:31:16 UTC] PHP Warning:  Undefined array key "2x" in /home/poke/public_html/wp-content/plugins/upload-max-file-size/Plugin_Card_Helper.php on line 244
+[29-Nov-2023 11:00:57 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[29-Nov-2023 11:02:47 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[29-Nov-2023 11:05:57 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[29-Nov-2023 11:06:52 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[29-Nov-2023 11:52:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update_meta() on null in /home/poke/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php:312
+Stack trace:
+#0 /home/poke/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php(185): ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->save_conditions(2, Array)
+#1 [internal function]: ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->ajax_save_theme_template_conditions(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 /home/poke/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(176): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#3 /home/poke/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#4 /home/poke/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#5 /home/poke/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /home/poke/public_html/wp-admin/admin-ajax.php(188): do_action('wp_ajax_element...')
+#7 {main}
+  thrown in /home/poke/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 312
+[29-Nov-2023 12:29:36 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home/poke/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 179
+[29-Nov-2023 23:30:30 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[29-Nov-2023 23:33:16 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home/poke/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 179
+[30-Nov-2023 05:46:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update_meta() on null in /home/poke/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php:312
+Stack trace:
+#0 /home/poke/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php(185): ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->save_conditions(2, Array)
+#1 [internal function]: ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->ajax_save_theme_template_conditions(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 /home/poke/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(176): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#3 /home/poke/public_html/wp-includes/class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#4 /home/poke/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#5 /home/poke/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#6 /home/poke/public_html/wp-admin/admin-ajax.php(188): do_action('wp_ajax_element...')
+#7 {main}
+  thrown in /home/poke/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 312
+[30-Nov-2023 07:20:16 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home/poke/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 179
+[30-Nov-2023 07:21:01 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home/poke/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 179
+[30-Nov-2023 07:30:22 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[30-Nov-2023 07:30:36 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[30-Nov-2023 11:47:33 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[30-Nov-2023 12:36:44 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[01-Dec-2023 07:07:16 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home/poke/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 179
+[01-Dec-2023 07:29:56 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home/poke/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 179
+[01-Dec-2023 07:29:56 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home/poke/public_html/wp-content/plugins/elementor/modules/history/revisions-manager.php on line 363
+[01-Dec-2023 07:33:49 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home/poke/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 179
+[01-Dec-2023 07:33:49 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home/poke/public_html/wp-content/plugins/elementor/modules/history/revisions-manager.php on line 363
+[01-Dec-2023 07:38:43 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home/poke/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 179
+[01-Dec-2023 07:38:43 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home/poke/public_html/wp-content/plugins/elementor/modules/history/revisions-manager.php on line 363
+[01-Dec-2023 07:38:53 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home/poke/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 179
+[01-Dec-2023 07:38:53 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home/poke/public_html/wp-content/plugins/elementor/modules/history/revisions-manager.php on line 363
+[01-Dec-2023 07:53:29 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home/poke/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 179
+[01-Dec-2023 09:05:48 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[07-Dec-2023 10:14:20 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home/poke/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 179
+[07-Dec-2023 10:37:52 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home/poke/public_html/wp-content/plugins/elementor/modules/history/revisions-manager.php on line 363
+[08-Dec-2023 05:37:02 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Dec-2023 06:20:34 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home/poke/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 179
+[08-Dec-2023 07:08:46 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home/poke/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 179
+[08-Dec-2023 07:59:45 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home/poke/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 179
+[08-Dec-2023 08:00:20 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Dec-2023 09:35:05 UTC] PHP Warning:  Attempt to read property "title" on null in /home/poke/public_html/wp-includes/class-wp-customize-widgets.php on line 905
